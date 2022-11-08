@@ -1,0 +1,103 @@
+.video-title{
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 270px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    
+}
+
+.channel-name{
+    color: gray;
+    font-family: arial;
+    margin-top: 10px;
+    margin-bottom: 0px;
+
+
+}
+
+.viewers{
+    color: gray;
+    margin-top: 6px;
+}
+
+.fourAM{
+    border-radius: 30px;
+    margin-bottom: 0px;
+    display: block;
+    width: 400px;
+}
+
+.first-div{
+    display: block;
+    margin-left: 10px;
+}
+
+.second-div{
+    margin-left: 70px;
+    vertical-align: top;
+    display: block;
+}
+
+.paraboy{
+    display: inline-block;
+    border-radius: 50px;
+    width: 50px;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.third-div{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+
+}
+
+.fourth-div{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 0px;
+
+}
+
+.fourth-div-four{
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+.first-all{
+    display: inline-block;
+    margin-left: 40px;
+    width: 430px;
+    margin-right: 20px;
+}
+.second-all{
+    display: inline-block;
+    margin-left: 0px;
+    width: 430px;
+}
+
+.fifth-div{
+   
+    grid-template-columns: 300px 1fr;
+    
+}
+
+.sixth-div{
+    display: inline-block;
+}
+
+.seventh-div{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+
+    
+
+

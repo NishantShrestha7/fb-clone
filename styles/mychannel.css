@@ -1,0 +1,149 @@
+body{
+height: 0px;
+width: 1200px;
+}
+
+.first-but{
+background-color: #1877f2;
+color: white;
+border-radius: 20px;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-right: 20px;
+padding-left: 20px;
+font-family: arial;
+border: none;
+height: 33px;
+}
+
+.first-but:hover{
+background-color: blue;
+cursor: pointer;  
+}
+
+.second-but{
+background-color: #1877f2;
+color: white;
+border-radius: 20px;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-right: 20px;
+padding-left: 20px;
+font-family: arial;
+margin-left: 10px;
+border: none;
+height: 33px;
+}
+
+.second-but:hover{
+background-color: blue;
+cursor: pointer; 
+}
+
+.channel-name{
+display: inline-block;
+font-size: 30px;
+margin-top: 0px;
+margin-bottom: 0px;    
+}
+
+.sub-count{
+color: gray;
+font-size: 15px;
+position: relative;
+left: 0px;
+bottom: 10px;
+}
+
+.first-div{
+position: relative;
+left: 90px;
+bottom: 60px;
+cursor: pointer;
+}
+
+.second-div{
+position: relative;
+left: 140px;    
+}
+
+.third-div{
+display: flex;
+justify-content: space-between;
+}
+
+.fourth-div{
+position: relative;
+top: 43px;
+left: 170px;    
+}
+
+.fifth-div{
+display: flex;
+column-gap: 80px;
+position: relative;
+left: 170px;
+bottom: 50px;
+font-family: arial;
+color: gray;
+font-weight: bold;
+margin-top: 20px;    
+}
+
+@media (min-siz)
+
+.sixth-div{
+width: 300px;
+cursor: pointer;    
+}
+
+.seventh-div{
+display: flex;
+column-gap: 20px;
+position: relative;
+left: 87px;  
+}
+
+.first-line{
+position: relative;
+bottom: 27px;
+margin : 0px;
+width: 1500px;    
+}
+
+.views-time{
+color: gray;
+margin-top: 10px;
+}
+
+.first-title{
+font-weight: bold;
+font-family: Arial;
+font-size: 15px;
+margin-top: 10px;
+margin-bottom: 0px;    
+}
+
+.uploads-play{
+margin-top: 0px;
+position: relative; 
+font-family: arial;
+font-size: 15px;
+left: 90px;
+margin-bottom: 30px;   
+}
+
+.hvslpcca{
+color: gray;
+text-decoration: none;    
+}
+.video-hyp{
+color: black;
+font-weight: bold;
+text-decoration: none;    
+}
+
+.main-div{
+position: relative;
+top: 200px; 
+}
